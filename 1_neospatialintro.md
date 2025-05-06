@@ -20,9 +20,9 @@ exports:
   - format: pdf
     template: volcanica
     article_type: Report
-downloads:
-  - id: neospatial.pdf
-    title: neospatial intro   
+# downloads:
+#   - id: neospatial.pdf
+#     title: neospatial intro   
 ---
 
 # Neospatial 🧙
@@ -33,7 +33,7 @@ downloads:
 
 ## Map demo
 
-```{code-cell}
+```{code-cell} python
 import leafmap.foliumap as leafmap
 
 m = leafmap.Map(center=[40, -100], zoom=4)
@@ -42,7 +42,7 @@ m
 
 ## Code blocks
 
-```{code}
+```{code} python
 :linenos:
 :emphasize-lines: 3,4
 
