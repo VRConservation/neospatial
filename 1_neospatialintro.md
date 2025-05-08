@@ -11,7 +11,7 @@ authors:
 license: CC-BY-4.0
 keywords: data, geospatial, open-science
 abstract: |
-  We introduce the neospatial concept of solving real world problems using data and spatial data.
+  We introduce the neospatial concept of solving real world problems using cloud native geospatial workflows and open source software.
 kernelspec:
   name: python3
   display_name: Python 3
