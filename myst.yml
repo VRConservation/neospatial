@@ -32,7 +32,9 @@ site:
     favicon: images/favicon.ico
     logo: images/logo.png
   nav:
-    - title: Open Science
-      url: https://openscience.gishub.org
-    - title: MyST
-      url: https://mystmd.org
+    - title: Open Geospatial
+      url: https://3point.xyz/geosp
+    - title: Conservation Finance
+      url: https://confinance.info
+    - title: Forest Business Devlopment 
+      url: https://forestbiz.info  
