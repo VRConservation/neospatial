@@ -24,8 +24,7 @@ project:
 # delete to here for TOC
   numbering:
     heading_1: true
-    heading_2: true
-    
+    heading_2: true    
 site:
   template: book-theme
   options:

@@ -25,7 +25,7 @@ exports:
 #     title: neospatial intro   
 ---
 
-# Neospatial 🧙
+# Neospatial 🛰️ 🌐 ☁️
 
 ## Background
 
