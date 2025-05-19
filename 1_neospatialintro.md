@@ -11,7 +11,7 @@ authors:
 license: CC-BY-4.0
 keywords: data, geospatial, open-science
 abstract: |
-  We introduce the neospatial concept of solving real world problems using cloud native geospatial workflows and open source software.
+  Neospatial is concept of solving real world problems using cloud native geospatial workflows and open source software.
 kernelspec:
   name: python3
   display_name: Python 3
@@ -40,25 +40,7 @@ m = leafmap.Map(center=[40, -100], zoom=4)
 m
 ```
 
-## Code blocks
-
-```{code} python
-:linenos:
-:emphasize-lines: 3,4
-
-import leafmap.foliumap as leafmap
-
-m = leafmap.Map(center=[40, -100], zoom=4)
-m
-```
-
 ## Take-aways
 
 
 ## Resources
-
-
-
-```
-
-```
