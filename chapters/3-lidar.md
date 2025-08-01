@@ -11,7 +11,7 @@ authors:
 license: CC-BY-4.0
 keywords: data, geospatial, open-science
 abstract: |
-  We introduce Lidar
+  We demo Lidar analysis using Whitebox tools and other python packages.
 kernelspec:
   name: python3
   display_name: Python 3
