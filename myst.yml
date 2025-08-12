@@ -17,10 +17,9 @@ project:
     - file: author.md
     - title: Chapters
       children:
-        - file: chapters/1-leafmapdemo.ipynb
-        - file: chapters/2-skipex.ipynb
-        - file: chapters/3-lidar.md
-        - file: chapters/4-lm_lidar.ipynb
+        - file: chapters/01-ai.ipynb
+        - file: chapters/02--lidar.md
+
 # delete to here for TOC
   numbering:
     heading_1: true
