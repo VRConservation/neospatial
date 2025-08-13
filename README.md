@@ -2,4 +2,4 @@
 
 Welcome to the Neospatial book. This is a book about new approaches to spatial data science solving real world problems. The full book can be found at https://3point.xyz/neospatial.
 
-![3pt](images/3pt.png)
+![3pt](images/logo.png)

@@ -28,6 +28,7 @@ exports:
 # Neospatial 🛰️ 🌐 ☁️
 
 ## Background
+According to https://fieldsofthe.world/paper.html Crop field boundaries are foundational datasets for agricultural monitoring and assessments but are expensive to collect manually.
 
 ## Audience
 
