@@ -9,7 +9,7 @@ authors:
       - 3point.xyz
     email: vance@3point.xyz
 license: CC-BY-4.0
-keywords: data, geospatial, open-science
+keywords: data, geospatial, foss
 abstract: |
   Neospatial is concept of solving real world problems using cloud native geospatial workflows and open source software.
 kernelspec:
@@ -28,9 +28,23 @@ exports:
 # Neospatial 🛰️ 🌐 ☁️
 
 ## Background
-According to https://fieldsofthe.world/paper.html Crop field boundaries are foundational datasets for agricultural monitoring and assessments but are expensive to collect manually.
 
 ## Audience
+
+## Chapters
+The book contains the following chapters
+
+1. **Introduction**. An introduction to the concept of neospatial.
+2. **CNG**. Cloud-native geospatial concepts and applications.
+3. **Optimization**. Mathematical algorithms for optimizing variables for forest health and conservation.
+4. **Machine Learning**. Machine learning algorithms for land use land cover change integrated with remote sensing applictaions.
+5. **AI**. Practical, useful, and accurate uses of AI in geospatial and cloud-native applications.
+6. **Lidar**. Lidar collection and processing workflows using open source tools and python packages.
+7. **Drones**. Using drones to collect local to landscape multispectral imagery.
+
+
+gdal?
+Appendices: docker, python automation
 
 ## Map demo
 

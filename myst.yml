@@ -5,10 +5,11 @@ project:
   title: Preface
   subtitle: Cloud-native Geospatial Problem Solving
   jupyter: false
-  # description:
-  # keywords: []
-  # authors: []
+  description: Neospatial is concept of solving real world problems using cloud native geospatial workflows and open source software.
+  keywords: [cloud-native, geospatial, open-source, problem-solving]
+  # authors: [Vance Russell]
   github: https://github.com/VRConservation/neospatial
+  
   # To autogenerate a Table of Contents, run "myst init --write-toc"
   numbering:
     heading_1: true
@@ -16,8 +17,11 @@ project:
   toc:
     - file: README.md
     - file: chapters/01-intro.md
-    - file: chapters/02-ai.md
-    - file: chapters/03-lidar.md
+    - file: chapters/02-cng.md
+    - file: chapters/03-opt.md
+    - file: chapters/04-ml.md
+    - file: chapters/05-ai.md
+    - file: chapters/06-lidar.md
     - file: author.md
 # delete to here for TOC
   

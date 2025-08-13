@@ -2,7 +2,7 @@
 title: Lidar
 subject: Article
 subtitle: Using lidar point clouds to analyze and visualize forest structure
-short_title: 3. Lidar
+short_title: 6. Lidar
 authors:
   - name: Vance Russell
     affiliations:
