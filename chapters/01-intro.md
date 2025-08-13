@@ -43,8 +43,7 @@ The book contains the following chapters
 7. **Drones**. Using drones to collect local to landscape multispectral imagery.
 
 
-gdal?
-Appendices: docker, python automation
+
 
 ## Map demo
 
