@@ -1,8 +1,8 @@
 ---
 title: Neospatial data approaches 🧙
-subject: Article
+subject: 
 subtitle: New approaches to solving real world problems using spatial data
-short_title: Neospatial
+short_title: 1. Neospatial
 authors:
   - name: Vance Russell
     affiliations:

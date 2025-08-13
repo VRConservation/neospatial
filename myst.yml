@@ -3,7 +3,7 @@ version: 1
 project:
   id: ab440adc-2db2-4534-8548-ad2b03879434
   title: Preface
-  subtitle: GIS Programming
+  subtitle: Cloud-native Geospatial Problem Solving
   jupyter: false
   # description:
   # keywords: []
@@ -15,12 +15,10 @@ project:
     heading_2: true       
   toc:
     - file: README.md
-    - file: 1_neospatialintro.md
+    - file: chapters/01-intro.md
+    - file: chapters/02-ai.md
+    - file: chapters/03-lidar.md
     - file: author.md
-    - title: Chapters
-      children:
-        - file: chapters/01-ai.md
-        - file: chapters/02-lidar.md
 # delete to here for TOC
   
 site:

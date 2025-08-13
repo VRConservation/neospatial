@@ -2,7 +2,7 @@
 title: Lidar
 subject: Article
 subtitle: Using lidar point clouds to analyze and visualize forest structure
-short_title: Lidar
+short_title: 3. Lidar
 authors:
   - name: Vance Russell
     affiliations:
@@ -25,7 +25,7 @@ exports:
 #     title: neospatial intro   
 ---
 
-# Lidar
+## Lidar
 
 ```{code} python
 # import libraries
