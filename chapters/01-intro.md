@@ -42,19 +42,23 @@ The book contains the following chapters
 6. **Lidar**. Lidar collection and processing workflows using open source tools and python packages.
 7. **Drones**. Using drones to collect local to landscape multispectral imagery.
 
-
-
-
 ## Map demo
+Land, carbon, and biodiversity data for supply chain impact calculations are part of reducing negative drivers of land conversion [https://doi.org/10.1101/2023.11.01.565036]. Using data from Source Cooperative rendered through Leafmap, we demonstrate how quickly you can upload, analyze, and visualize cloud-native geospatial data at large scale.
 
 ```{code-cell} python
+# import dependencies
 import leafmap.foliumap as leafmap
+import os
 
+# add data from deforestation carbon emissions (source.coop land, carbon, bd data)
+deforest_hum_cog = 'https://data.source.coop/vizzuality/lg-land-carbon-data/deforest_by_human_lu_50km_1000m_cog.tif
+
+# initialize map
 m = leafmap.Map(center=[40, -100], zoom=4)
 m
 ```
 
-## Take-aways
+## Takeaways
 
 
 ## Resources
